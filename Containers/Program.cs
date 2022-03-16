@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TestContainer
+namespace Containers
 {
     class Program
     {
